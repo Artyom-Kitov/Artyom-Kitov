@@ -38,4 +38,6 @@
 
 ## Statistics
 [![trophy](https://github-profile-trophy.vercel.app/?username=Artyom-Kitov&theme=onedark)](https://github.com/Artyom-Kitov)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Artyom-Kitov&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Artyom-Kitov&theme=solarized_dark)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ArtyomKitov&theme=dark)](https://github.com/Artyom-Kitov)
