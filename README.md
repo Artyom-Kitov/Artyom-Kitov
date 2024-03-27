@@ -31,6 +31,10 @@
 [![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)](https://github.com/Artyom-Kitov)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](https://github.com/Artyom-Kitov)
 
+### Contacts
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a4ty0mKa)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/a4ty0mka)
+
 ## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artyom-Kitov&layout=compact&theme=dark)](https://github.com/Artyom-Kitov)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Artyom-Kitov&theme=onedark)](https://github.com/Artyom-Kitov)
