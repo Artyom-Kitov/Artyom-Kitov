@@ -37,6 +37,5 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ArtyomKitov/)
 
 ## Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artyom-Kitov&layout=compact&theme=dark)](https://github.com/Artyom-Kitov)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Artyom-Kitov&theme=onedark)](https://github.com/Artyom-Kitov)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ArtyomKitov&theme=dark)](https://github.com/Artyom-Kitov)
