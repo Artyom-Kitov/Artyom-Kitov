@@ -30,6 +30,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Artyom-Kitov)
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/Artyom-Kitov)
 [![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)](https://github.com/Artyom-Kitov)
+[![Maven](https://img.shields.io/badge/Maven-02303A.svg?style=for-the-badge&logo=Maven&logoColor=white)](https://github.com/Artyom-Kitov)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](https://github.com/Artyom-Kitov)
 
 ### Contacts
@@ -41,4 +42,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Artyom-Kitov&theme=onedark)](https://github.com/Artyom-Kitov)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Artyom-Kitov&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Artyom-Kitov&theme=solarized_dark)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ArtyomKitov&theme=dark)](https://github.com/Artyom-Kitov)
