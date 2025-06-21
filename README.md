@@ -31,7 +31,7 @@
 [![Maven](https://img.shields.io/badge/Maven-02303A.svg?style=for-the-badge&logo=Maven&logoColor=white)](https://github.com/Artyom-Kitov)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](https://github.com/Artyom-Kitov)
 
-### Contacts
+## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a4ty0mKa)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/a4ty0mka)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ArtyomKitov/)
